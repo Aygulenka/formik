@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.error-message {
+  color: red;
+  font-size: small;
+}
+.inpt {
+width: 300px;
+margin: 5px;
+}
+/* h1 {
+  text-align: center;
+} */
